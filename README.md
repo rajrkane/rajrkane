@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center"> ॐ </h1>
+<h1 align="center"> स्वागतम् </h1>
 
 ###
 
