@@ -14,7 +14,7 @@ Building AI for how America builds at <a href="https://pryzm.io">Pryzm</a>.
 
 Writings <a href="https://rajrkane.com/blog">here</a> and contact details <a href="https://rajrkane.com/contact">here</a>.
 
-###
+<!--###
 
 <h3 align="left">🛠️ Tools</h3>
 
@@ -65,7 +65,7 @@ Writings <a href="https://rajrkane.com/blog">here</a> and contact details <a hre
 ###
 
 <div align="center">
-<!--   <img src="https://streak-stats.demolab.com?user=rajrkane&theme=monokai&hide_border=true" height="220" alt="streak graph"  /> -->
+    <img src="https://streak-stats.demolab.com?user=rajrkane&theme=monokai&hide_border=true" height="220" alt="streak graph"  />
 </div>
 
-###
+###-->
