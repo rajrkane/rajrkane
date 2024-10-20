@@ -12,4 +12,4 @@
 
 Building <a href="https://pryzm.io">Pryzm</a>.
 
-Writings <a href="https://rajrkane.com/blog">here</a> and contact details <a href="https://rajrkane.com/contact">here</a>.
+Contact details <a href="https://rajrkane.com/contact">here</a>.
